@@ -4,6 +4,14 @@
 Using Pandas found I created a summary and analysis of all the schools in the area.
 In the End of the Jupyter Notebook files is my analysis of the results.
 
+## Analysis and Trends
+
+- Students from Charter Schools outpreformed students from District Schools in all categories - with 36% more students passing both math and reading.
+
+- Students from the largest categories of school were outpreformed by students from medium and small school scoring over 30% more students passing both math and reading.
+
+- School spending more money per student did not increase the average grade of the students or whether they passed. As spending increased the average grade deacreased. 
+
 ## District Summary
 ![Screenshot 2022-11-21 215552](https://user-images.githubusercontent.com/115041104/203212350-e3e76787-d618-4b47-bda3-03b7dc2f1940.png)
 
